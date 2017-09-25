@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NYI</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="view_our_terms_and_privacy_policy">View our Terms and Privacy Policy</string>
+    <string name="company_logo">Company Logo</string>
+    <string name="compay_moto">Compay Moto</string>
+    <string name="ama_llc_2017">AMA LLC @2017</string>
+    <string name="about">About</string>
+    <string name="button_sign_in">Sign In</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="company_symbol">Company Symbol</string>
+</resources>
